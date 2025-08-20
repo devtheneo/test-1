@@ -1,7 +1,7 @@
 {
   "id": "68a5e42476ca63412e5ec8a2",
   "name": "edgeworkers",
-  "lastExport": "2025-08-20T15:47:40.055Z",
+  "lastExport": "2025-08-20T17:05:59.524Z",
   "baseUrl": "http://app.theneo.io",
   "sections": [
     {
@@ -214,44 +214,7 @@
     {
       "name": "SOAP API Reference",
       "slug": "soap-api-referenc",
-      "children": [
-        {
-          "name": "Payments / Banking API example",
-          "slug": "soap-api-referenc/payments-banking-api-example",
-          "children": [
-            {
-              "name": "Create bank account",
-              "slug": "soap-api-referenc/payments-banking-api-example/create-bank-account",
-              "children": []
-            },
-            {
-              "name": "Create entity",
-              "slug": "soap-api-referenc/payments-banking-api-example/create-entity",
-              "children": []
-            },
-            {
-              "name": "Create invoice",
-              "slug": "soap-api-referenc/payments-banking-api-example/create-invoice",
-              "children": []
-            },
-            {
-              "name": "Delete entity",
-              "slug": "soap-api-referenc/payments-banking-api-example/delete-entity",
-              "children": []
-            },
-            {
-              "name": "Get invoice ID by number",
-              "slug": "soap-api-referenc/payments-banking-api-example/get-invoice-id-by-number",
-              "children": []
-            },
-            {
-              "name": "List bank accounts",
-              "slug": "soap-api-referenc/payments-banking-api-example/list-bank-accounts",
-              "children": []
-            }
-          ]
-        }
-      ]
+      "children": []
     }
   ]
 }
