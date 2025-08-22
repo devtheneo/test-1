@@ -1,7 +1,7 @@
 {
   "id": "68a5e42476ca63412e5ec8a2",
   "name": "edgeworkers",
-  "lastExport": "2025-08-20T17:05:59.524Z",
+  "lastExport": "2025-08-22T09:50:14.526Z",
   "baseUrl": "http://app.theneo.io",
   "sections": [
     {
@@ -11,24 +11,43 @@
         {
           "name": "Introduction",
           "slug": "getting-started/introduction",
-          "children": []
+          "children": [],
+          "icon": "6",
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
         },
         {
           "name": "Theneo API documentation",
           "slug": "getting-started/theneo-api-documentation",
-          "children": []
+          "children": [],
+          "icon": "3",
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
         },
         {
           "name": "Customizing",
           "slug": "getting-started/customizing",
-          "children": []
+          "children": [],
+          "icon": "16",
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
         },
         {
           "name": "Theneo web editor",
           "slug": "getting-started/theneo-web-editor",
-          "children": []
+          "children": [],
+          "icon": "14",
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
         }
-      ]
+      ],
+      "isHeader": true,
+      "externalPageLink": "",
+      "isNewTab": false
     },
     {
       "name": "API Reference Guide",
@@ -37,19 +56,34 @@
         {
           "name": "Basics of APIs",
           "slug": "api-reference-guide/basics-of-apis",
-          "children": []
+          "children": [],
+          "icon": "0",
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
         },
         {
           "name": "Base URL",
           "slug": "api-reference-guide/base-url",
-          "children": []
+          "children": [],
+          "icon": "17",
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
         },
         {
           "name": "Authentication",
           "slug": "api-reference-guide/authentication",
-          "children": []
+          "children": [],
+          "icon": "5",
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
         }
-      ]
+      ],
+      "isHeader": true,
+      "externalPageLink": "",
+      "isNewTab": false
     },
     {
       "name": "Rest API Reference",
@@ -62,29 +96,48 @@
             {
               "name": "Create customer",
               "slug": "rest-api-reference/customer-crm-api-example/create-customer",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Update customer",
               "slug": "rest-api-reference/customer-crm-api-example/update-customer",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Retrieve customer",
               "slug": "rest-api-reference/customer-crm-api-example/retrieve-customer",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "List all customers",
               "slug": "rest-api-reference/customer-crm-api-example/list-all-customers",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Delete customer",
               "slug": "rest-api-reference/customer-crm-api-example/delete-customer",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             }
-          ]
+          ],
+          "icon": "15",
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
         },
         {
           "name": "Transaction API Example",
@@ -93,39 +146,64 @@
             {
               "name": "Create a charge",
               "slug": "rest-api-reference/transaction-api-example/create-a-charge",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Update a charge",
               "slug": "rest-api-reference/transaction-api-example/update-a-charge",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Retrieve a charge",
               "slug": "rest-api-reference/transaction-api-example/retrieve-a-charge",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Create subscription",
               "slug": "rest-api-reference/transaction-api-example/create-subscription",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Update subscription",
               "slug": "rest-api-reference/transaction-api-example/update-subscription",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Search subscriptions",
               "slug": "rest-api-reference/transaction-api-example/search-subscriptions",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Cancel subscription",
               "slug": "rest-api-reference/transaction-api-example/cancel-subscription",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             }
-          ]
+          ],
+          "icon": "7",
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
         },
         {
           "name": "Dev Tools API Examples",
@@ -134,34 +212,56 @@
             {
               "name": "List branches",
               "slug": "rest-api-reference/hr-management-examples/list-branches",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Get a branch",
               "slug": "rest-api-reference/hr-management-examples/get-a-branch",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Rename a branch",
               "slug": "rest-api-reference/hr-management-examples/rename-a-branch",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Get a schedule",
               "slug": "rest-api-reference/hr-management-examples/get-a-schedule",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Update a schedule",
               "slug": "rest-api-reference/hr-management-examples/update-a-schedule",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Delete a schedule",
               "slug": "rest-api-reference/hr-management-examples/delete-a-schedule",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             }
-          ]
+          ],
+          "icon": "1",
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
         },
         {
           "name": "Theneo Real APIs",
@@ -170,51 +270,85 @@
             {
               "name": "Add new project",
               "slug": "rest-api-reference/theneo-real-apis/add-new-project",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Get all projects",
               "slug": "rest-api-reference/theneo-real-apis/get-all-projects",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Get project by id",
               "slug": "rest-api-reference/theneo-real-apis/get-project-by-id",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Delete project",
               "slug": "rest-api-reference/theneo-real-apis/delete-project",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Get accessible users",
               "slug": "rest-api-reference/theneo-real-apis/get-accessible-users",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Share a project",
               "slug": "rest-api-reference/theneo-real-apis/share-a-project",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Change user access to a project",
               "slug": "rest-api-reference/theneo-real-apis/change-user-access-to-a-project",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             },
             {
               "name": "Import API specification",
               "slug": "rest-api-reference/theneo-real-apis/import-api-specification",
-              "children": []
+              "children": [],
+              "isHeader": false,
+              "externalPageLink": "",
+              "isNewTab": false
             }
-          ]
+          ],
+          "icon": "2",
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
         }
-      ]
+      ],
+      "isHeader": true,
+      "externalPageLink": "",
+      "isNewTab": false
     },
     {
       "name": "SOAP API Reference",
       "slug": "soap-api-referenc",
-      "children": []
+      "children": [],
+      "isHeader": true,
+      "externalPageLink": "",
+      "isNewTab": false
     }
   ]
 }
